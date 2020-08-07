@@ -1,4 +1,4 @@
-Hi 👋, I'm Jan Koriťák. I'm a React Front-end developer and a Tech-Lead @webscope.io.
+**Hi 👋, I'm Jan Koriťák. I'm a React Front-end developer and a Tech-Lead [@webscope.io](https://github.com/webscopeio).**
 
 This README.md is under construction 🚧
 
