@@ -1,6 +1,6 @@
 **Hi 👋, I'm Jan Koriťák.**
 
-I'm a front-end engineer, tech-lead and a shareholder [@webscope.io](https://github.com/webscopeio).
+I'm a front-end engineer, tech-lead, and a shareholder [@webscope.io](https://github.com/webscopeio).
 
 If you have any questions, feel free to DM me on socials or drop me an email.
 
