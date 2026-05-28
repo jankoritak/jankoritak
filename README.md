@@ -1,10 +1,10 @@
 **Hi 👋, I'm Jan Koriťák.**
 
-I'm a front-end engineer, tech-lead, and a shareholder [@senvio.com](https://github.com/webscopeio).
+Product engineer — full-stack, tech-lead background, founder at [senvio.com](https://senvio.com). Building with AI.
 
-If you have any questions, feel free to DM me on socials or drop me an email.
-
-You can reach me here
-- LinkedIn - [@jankoritak](https://www.linkedin.com/in/jan-koritak/)
-- X - [@jankoritak](https://x.com/jankoritak)
-- Instagram - [@jankoritak](https://instagram.com/jankoritak)
+Find me on:
+- Website / track record — [jankoritak.com](https://jankoritak.com)
+- Blog — [blog.jankoritak.com](https://blog.jankoritak.com)
+- LinkedIn — [@jankoritak](https://www.linkedin.com/in/jan-koritak/)
+- X — [@jankoritak](https://x.com/jankoritak)
+- Instagram — [@jankoritak](https://instagram.com/jankoritak)
