@@ -1,6 +1,6 @@
 **Hi 👋, I'm Jan Koriťák.**
 
-Product engineer — full-stack, tech-lead background, founder at [senvio.com](https://senvio.com). Building with AI.
+Full-stack engineer, partner at [senvio.com](https://senvio.com). Building with AI.
 
 Find me on:
 - Website / track record — [jankoritak.com](https://jankoritak.com)
